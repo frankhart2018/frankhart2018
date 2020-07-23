@@ -4,11 +4,11 @@ Hi, I am Siddhartha, Software Engineer at Avalara interested in Neural Networks 
 
 The projects that I am currently working on are:-
 
-- simC <a href="https://github.com/cimplec/sim-c">simC Repo</a> licensed under GPL v3
+- simC https://github.com/cimplec/sim-c licensed under GPL v3
 - Project DC (Private repo as of now :grimacing:, will soon be open sourced :wink:)
-- Pulse <a href="https://github.com/lang-pulse/Pulse">Pulse Repo</a> yet to be open sourced
+- Pulse https://github.com/lang-pulse/Pulse yet to be open sourced
 
-I also take part int ML research (:books: :books:) and have worked on several research projects based on Neural Networks and Machine Learning. 
+I also take part int ML research (:books: :books:) and have worked on several research projects based on Neural Networks and Machine Learning.
 
 Looking to collaborate (👯) and get in touch with people who are as enthusiastic about AI and Compilers like me.
 
