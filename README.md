@@ -8,7 +8,7 @@ The projects that I am currently working on are:-
 - Project DC (Private repo as of now :grimacing:, will soon be open sourced :wink:)
 - Pulse https://github.com/lang-pulse/Pulse yet to be open sourced
 
-I also take part int ML research (:books: :books:) and have worked on several research projects based on Neural Networks and Machine Learning.
+I also take part in ML research (:books: :books:) and have worked on several research projects based on Neural Networks and Machine Learning.
 
 Looking to collaborate (👯) and get in touch with people who are as enthusiastic about AI and Compilers like me.
 
