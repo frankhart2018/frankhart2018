@@ -17,3 +17,5 @@ Looking to collaborate (👯) and get in touch with people who are as enthusiast
 - E-mail : sdharchou@gmail.com
 - Contact No.: +91-8428258442
 - LinkedIn: https://www.linkedin.com/in/siddhartha-dhar/
+
+[![Siddhartha's github stats](https://github-readme-stats.vercel.app/api?username=frankhart2018)](https://github.com/frankhart2018/github-readme-stats)
