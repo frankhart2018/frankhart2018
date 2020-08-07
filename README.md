@@ -19,3 +19,5 @@ Looking to collaborate (👯) and get in touch with people who are as enthusiast
 - LinkedIn: https://www.linkedin.com/in/siddhartha-dhar/
 
 [![Siddhartha's github stats](https://github-readme-stats.vercel.app/api?username=frankhart2018&count_private=true&theme=radical)](https://github.com/frankhart2018/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankhart2018)](https://github.com/frankhart2018/github-readme-stats)
