@@ -18,9 +18,3 @@ Looking to collaborate (👯) and get in touch with people who are as enthusiast
 - Contact No.: +91-8428258442
 - LinkedIn: https://www.linkedin.com/in/siddhartha-dhar/
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=frankhart2018&show_icons=true&theme=radical&count_private=true" alt="Siddhartha's Github stats" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankhart2018&layout=compact&theme=radical" />
-</a>
