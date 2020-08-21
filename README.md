@@ -7,6 +7,7 @@ The projects that I am currently working on are:-
 - <a href="https://github.com/cimplec/sim-c">simC</a> - A simple high level dynamically typed front-end for C. (Licensed under GPL v3)
 - <a href="https://github.com/Project-DC/pygeneses">Pygeneses</a> - A PyTorch based Deep Reinforcement Learning Framework to study behaviour of artificial agents in bio-inspired environments. (Licensed under GPL v3)
 - <a href="https://github.com/lang-pulse/">Pulse</a> - An interpreted language optimized for Neural Networks. (Yet to be open sourced)
+- <a href="https://github.com/Documentive/TemplateBuddy">TemplateBuddy</a> -  A project for making resumes and research papers using latex (Yet to be open sourced)
 
 I also take part in ML research (:books: :books:) and have worked on several research projects based on Neural Networks and Machine Learning.
 
