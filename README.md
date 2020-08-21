@@ -4,9 +4,9 @@ Hi, I am Siddhartha, Software Engineer at Avalara interested in Neural Networks 
 
 The projects that I am currently working on are:-
 
-- simC https://github.com/cimplec/sim-c licensed under GPL v3
-- Project DC (Private repo as of now :grimacing:, will soon be open sourced :wink:)
-- Pulse https://github.com/lang-pulse/Pulse yet to be open sourced
+- <a href="https://github.com/cimplec/sim-c">simC</a> - A simple high level dynamically typed front-end for C. (Licensed under GPL v3)
+- <a href="https://github.com/Project-DC/pygeneses">Pygeneses</a> - A PyTorch based Deep Reinforcement Learning Framework to study behaviour of artificial agents in bio-inspired environments. (Licensed under GPL v3)
+- <a href="https://github.com/lang-pulse/">Pulse</a> - An interpreted language optimized for Neural Networks. (Yet to be open sourced)
 
 I also take part in ML research (:books: :books:) and have worked on several research projects based on Neural Networks and Machine Learning.
 
