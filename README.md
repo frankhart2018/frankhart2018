@@ -17,13 +17,17 @@ Looking to collaborate (👯) and get in touch with people who are as enthusiast
 
 ### Langauges and Tools (that I use frequently):   
 
-<a href="https://github.com/tensorflow/tensorflow" target="_blank"><img align="left" alt="TensorFlow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" /></a>
+<a href="https://github.com/tensorflow/tensorflow" target="_blank"><img align="left" alt="TensorFlow" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" /></a>
 
-<a href="https://github.com/pytorch/pytorch" target="_blank"><img align="left" alt="PyTorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" /></a>
+<a href="https://github.com/pytorch/pytorch" target="_blank"><img align="left" alt="PyTorch" width="32px" src="https://pytorch.org/assets/images/pytorch-logo.png" /></a>
 
-<a href="https://github.com/numpy/numpy" target="_blank"><img align="left" alt="NumPy" width="26px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" /></a>
+<a href="https://github.com/numpy/numpy" target="_blank"><img align="left" alt="NumPy" width="32px" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" /></a>
 
-<a href="https://github.com/pandas-dev/pandas" target="_blank"><img align="left" alt="Pandas" width="26px" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" /></a>
+<a href="https://github.com/pandas-dev/pandas" target="_blank"><img align="left" alt="Pandas" width="32px" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" /></a>
+
+<a href="https://github.com/matplotlib/matplotlib" target="_blank"><img align="left" alt="Matplotlib" width="50px" src="https://www.janmeppe.com/assets/2019-12-24-matplotlib/matplotlib.jpg" /></a>
+
+<br>
 
 📫 How to reach me:
 
