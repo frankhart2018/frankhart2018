@@ -36,7 +36,7 @@ Looking to collaborate (👯) and get in touch with people who are as enthusiast
 
 <a href="https://github.com/scikit-learn/scikit-learn" target="_blank"><img align="left" alt="sklearn" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png" /></a>
 
-<a href="https://github.com/openai/gym" target="_blank"><img align="left" alt="OpenAI Gym" width="70px" src="https://gym.openai.com/assets/dist/home/header/home-icon-54c30e2345.svg" /></a>
+<a href="https://github.com/openai/gym" target="_blank"><img align="left" alt="OpenAI Gym" width="50px" src="https://gym.openai.com/assets/dist/home/header/home-icon-54c30e2345.svg" /></a>
 
 <br><br><br><br>
 
